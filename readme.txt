@@ -1,4 +1,4 @@
-Welcome to Git for Beginners MyProject!
+Welcome to Git for Beginners to show MyProject!
 
 
 Author: Sandeep Dhungana "SD" Kumar Dhungana
